@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> DevLinks - Luan Araujo </h1>
 
 <p align="center">
 Prjeto realizado para concluir o programa exclusivo e gratuito, Discover, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
